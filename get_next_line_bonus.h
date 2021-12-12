@@ -6,12 +6,12 @@
 /*   By: iyoshiha <iyoshiha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/12 20:49:18 by iyoshiha          #+#    #+#             */
-/*   Updated: 2021/12/12 20:49:20 by iyoshiha         ###   ########.fr       */
+/*   Updated: 2021/12/12 20:51:30 by iyoshiha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef GET_NEXT_LINE_H
-# define GET_NEXT_LINE_H
+#ifndef GET_NEXT_LINE_BONUS_H
+# define GET_NEXT_LINE_BONUS_H
 # include <string.h>
 # include <limits.h>
 # include <unistd.h>
