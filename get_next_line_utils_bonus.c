@@ -6,11 +6,11 @@
 /*   By: iyoshiha <iyoshiha@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/12 20:49:32 by iyoshiha          #+#    #+#             */
-/*   Updated: 2021/12/12 20:49:35 by iyoshiha         ###   ########.fr       */
+/*   Updated: 2021/12/12 22:05:55 by iyoshiha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *s)
 {
